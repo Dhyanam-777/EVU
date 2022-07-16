@@ -26,29 +26,9 @@ public:
     }
 };
 
-class A
-{
-public:
-    void a()
-        {
-          cout<<a;
-        }
-};
-class B : public A
-{
-    public:
-        void b()
-        {
-          cout<<b;
-        }
-
-
-};
-
 int main()
 {
-    A obj;
-    obj.a();
+  
 
     cout<<"\n\n\t\t\t---------------------Welcome to your Diet Planner---------------------"<<endl;
     cout<<"\t\t\t(kindly enter in digits form only)"<<endl;

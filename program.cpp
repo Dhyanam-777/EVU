@@ -16,6 +16,7 @@ public:
         cout<<"\n   \t ENTER YOUR S.LDL (in mg/dl) : ";
         cin>>ldl;
     }
+    
     int in_age()
     {
         cout<<"\n   \t ENTER YOUR AGE: ";

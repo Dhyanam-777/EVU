@@ -21,22 +21,57 @@ public:
         cout<<"\n   \t ENTER YOUR AGE:";
         cin>>age;
     }
-
     void test_tri()
     {
         cout<<tri;
     if(tri >0 && tri<150){
-        cout<<"\nYOUR S.TRIGLYCERIDE LEVEL IS NORMAL";
+        cout<<"YOUR S.TRIGLYCERIDE LEVEL IS NORMAL.\n";
     }
     else if(tri>150 && tri<=199){
-        cout<<"\nYOUR S.TRIGLYCERIDE LEVEL IS BODERLINE";
+        cout<<"YOUR S.TRIGLYCERIDE LEVEL IS BODERLINE.\n";
     }
     else if(tri>=200){
-        cout<<"\nYOUR S.TRIGLYCERIDE LEVEL IS HIGH";
+        cout<<"YOUR S.TRIGLYCERIDE LEVEL IS HIGH.\n";
     }
     else
-        cout<<"\nENTER VALID DATA";
+        cout<<"ENTER VALID DATA.\n";
     }
+
+    void test_hdl()
+    {
+        if((hdl < 40) && (hdl > 0))
+        {
+            cout<<"YOUR S.HDL LEVEL IS LOW.\n";
+
+        }
+        else if(hdl >= 40){
+            cout<<"YOUR S.HDL LEVEL IS NORMAL.\n";
+
+        }
+        else
+        cout<<"ENTER VALID S.HDL LEVEL.\n"<<endl;
+    }
+
+    void test_ldl()
+    {
+        if((ldl <= 100) && (ldl >= 0))
+        {
+            cout<<"YOUR S.LDL LEVEL IS NORMAL.\n";
+
+        }
+        else if((ldl >= 101) && (ldl < 129)){
+            cout<<"YOUR S.LDL LEVEL IS SUB-OPTIMUM.\n";
+        }
+        else if((ldl > 129) && (ldl < 160)){
+            cout<<"YOUR S.LDL LEVEL IS BORDERLINE HIGH.\n";
+        }
+        else if(ldl > 159){
+            cout<<"YOUR S.LDL LEVEL IS HIGH.\n";
+        }
+        else
+        cout<<"ENTER VALID S.LDL LEVEL.\n"<<endl;
+    }
+
 
     void inc_satfat()
     {
@@ -56,6 +91,8 @@ int main()
     p1.data();
     cout<<"\n\t\t\t------------------------------------------------------------------------"<<endl;
     p1.test_tri();
+    p1.test_hdl();
+    p1.test_ldl();
     p1.inc_satfat();
     cout<<"\n\n\n\n\t\t\tThank you for entering your data it is under processing"<<endl;
     cout<<"\t\t\tGetting your diet ready..."<<endl;

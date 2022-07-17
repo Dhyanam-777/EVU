@@ -26,6 +26,8 @@ Still, so many people don't have time to plan their diet.
 *HDL : High Density Lipoprotien* 
 
 *LDL : Low Density Lipoprotein*
+<sub>Lipoproteins are substances made of protein and fat that carry cholesterol through your bloodstream.</sub>
+
 - Make cholesterol awareness a part of your healthy lifestyle, starting with having your cholesterol checked regularly.
 
 - So yes, we are here to help get your diet plan ready!

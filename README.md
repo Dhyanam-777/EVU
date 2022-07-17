@@ -18,8 +18,8 @@ Still, so many people don't have time to plan their diet.
     ```
  | Range (mg/dl) | cholesterol | S. Triglyceride | HDL | LDL |
 | :---: | :---: | :---: | :---: | :---: |
-| Normal | <200 | <150 | >=60 | <100 
-| Border line High | 200-239 | 150-199 | - | 130-159 |
+| Normal | <200 | <150 | >=40 | <100 
+| Border line High | 200-239 | 150-199 | - | 130-159 <sub>Sub_Optimal 100-129</sub>|
 | High | >240 | >=200 | -  | >=160 |
 | Low |- |- | <40 |- | 
 

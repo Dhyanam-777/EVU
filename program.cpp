@@ -7,7 +7,7 @@ public:
     int age;
     float data()
     {
-        cout<<"\n   \t ENTER YOUR S.CHORESTROL (in mg/dl) : ";
+        cout<<"\n   \t ENTER YOUR S.CHOLESTEROL (in mg/dl) : ";
         cin>>ch;
         cout<<"\n   \t ENTER YOUR S.TRIGLYCERIDE(in mg/dl) : ";
         cin>>tri;

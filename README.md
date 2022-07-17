@@ -16,7 +16,7 @@ Still, so many people don't have time to plan their diet.
     ```
     "You can't improve what you don't measure"
     ```
- | Range (mg/dl) | cholesterol | S. Triglyceride | HDL | LDL |
+ | Range (mg/dl) | Cholesterol | Triglyceride | HDL | LDL |
 | :---: | :---: | :---: | :---: | :---: |
 | Normal | <200 | <150 | >=40 | <100 
 | Border line High | 200-239 | 150-199 | - | 130-159 <sub>Sub_Optimal 100-129</sub>|

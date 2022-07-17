@@ -4,7 +4,7 @@
 
     Too much cholesterol in your body means that you have an increased risk of getting cardiovascular diseases such as heart disease.
 
-- a third of ischaemic heart disease is attributable to high cholesterol. 
+- A third of ischaemic heart disease is attributable to high cholesterol. 
 Overall, raised cholesterol is estimated to cause 2.6 million deaths (4.5% of total) and 29.7 million DALYs, or 2% of total DALYS.//
 
 - But you know! One can easily control cholesterol with an effective diet chart!

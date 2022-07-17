@@ -23,8 +23,8 @@ Still, so many people don't have time to plan their diet.
 | High | >240 | >=200 | -  | >=160 |
 | Low |- |- | <40 |- | 
 
-* HDL : High Density Lipoprotien *
-* LDL : Low Density Lipoprotein *
+*HDL : High Density Lipoprotien*
+*LDL : Low Density Lipoprotein*
 - Make cholesterol awareness a part of your healthy lifestyle, starting with having your cholesterol checked regularly.
 
 - So yes, we are here to help get your diet plan ready!

@@ -19,9 +19,9 @@ Still, so many people don't have time to plan their diet.
  | Range (mg/dl) | cholesterol | S. Triglyceride | HDL | LDL |
 | :---: | :---: | :---: | :---: | :---: |
 | Normal | <200 | <150 | >=60 | <100 
-| Border line High | 200-239 | 150-199 |   | 130-159 |
-| High | >240 | >=200 |   | >=160 |
-| Low | | | <40 | | 
+| Border line High | 200-239 | 150-199 | - | 130-159 |
+| High | >240 | >=200 | -  | >=160 |
+| Low |- |- | <40 |- | 
 - Make cholesterol awareness a part of your healthy lifestyle, starting with having your cholesterol checked regularly.
 
 - So yes, we are here to help get your diet plan ready!

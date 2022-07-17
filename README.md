@@ -1,4 +1,5 @@
-## Cholesterol Control Diet
+# CHOLESTRO-D
+## (CHOLESTEROL PATIENT'S DIET PLANNER)
 
 #### Hey, Do you know how many populations of the earth suffer from cholesterol (related) diseases!??
 

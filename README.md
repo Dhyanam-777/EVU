@@ -13,7 +13,9 @@ Still, so many people don't have time to plan their diet.
 - Here we are with our small project which is describing, how little attention to the diet can retain big cholesterol-related issues! 
 
 - Just because 
-        "You can't improve what you don't measure"
+    ```
+    "You can't improve what you don't measure"
+    ```
 
 - Make cholesterol awareness a part of your healthy lifestyle, starting with having your cholesterol checked regularly.
 
